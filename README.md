@@ -8,4 +8,4 @@ Notes app made with flutter.
 
 ## Screenshots
 
-![Screenshot](https://github.com/hawier-dev/easy-notes/blob/main/screenshots/screenshot1.png)
+![Screenshot](https://github.com/hawier-dev/easy-notes/blob/main/screenshots/screenshot.png)
