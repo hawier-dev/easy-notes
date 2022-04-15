@@ -4,7 +4,7 @@ Notes app made with flutter.
 
 ## Downloads
 
-⋅⋅* Google play - soon
+* Google play - soon.
 
 ## Screenshots
 
