@@ -25,13 +25,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'TODO',
+      title: 'Easy Notes',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         colorScheme: colorScheme,
         primaryColor: const Color(0xffD0BCFF),
       ),
-      home: const HomePage(title: 'TODO'),
+      home: const HomePage(title: 'Easy Notes'),
     );
   }
 }

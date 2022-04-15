@@ -78,7 +78,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Theme.of(context).colorScheme.background,
       appBar: AppBar(
-        title: const Text('Todo'),
+        title: Text(widget.title),
         backgroundColor: Theme.of(context).colorScheme.background,
         shadowColor: Colors.transparent,
         centerTitle: true,
