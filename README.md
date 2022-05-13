@@ -4,7 +4,7 @@ Notes app made with flutter.
 
 ## Downloads
 
-* ![Google play](https://play.google.com/store/apps/details?id=xyz.hawier.todo_app)
+* [Google play](https://play.google.com/store/apps/details?id=xyz.hawier.todo_app)
 
 ## Screenshots
 
